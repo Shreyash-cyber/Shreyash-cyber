@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mishra</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer</h3>
 
 - 💬 Ask me about **python, javascript, java**
 
