@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mishra</h1>
 <h3 align="center">A passionate python developer</h3>
 
+<div align="center">
 - 💬 Ask me about **python, javascript, java**
 
 - 📫 How to reach me **shreyashmishra158@gmail.com**
+  </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
