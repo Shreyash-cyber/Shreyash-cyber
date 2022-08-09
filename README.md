@@ -3,7 +3,7 @@
  <div align="center">
   - 💬 Ask me about PYTHON, JAVASCRIPT, JAVA
  </br>
-  - 📫 How to reach me **shreyashmishra158@gmail.com**
+  - 📫 How to reach me shreyashmishra158@gmail.com
   </div>
 
 <h3 align="center">Connect with me:</h3>
